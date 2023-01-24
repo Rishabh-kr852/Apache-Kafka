@@ -9,4 +9,4 @@
 */logs/*
 
 # Leave target directory
-*/target/*
+*/target/*debug.log
