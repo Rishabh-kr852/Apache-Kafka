@@ -1,0 +1,7 @@
+guru\learningjournal\kafka\examples\serde\JsonDeserializer.class
+guru\learningjournal\kafka\examples\AppConfigs.class
+guru\learningjournal\kafka\examples\types\PosInvoice.class
+guru\learningjournal\kafka\examples\serde\JsonSerializer.class
+guru\learningjournal\kafka\examples\types\LineItem.class
+guru\learningjournal\kafka\examples\PosValidator.class
+guru\learningjournal\kafka\examples\types\DeliveryAddress.class

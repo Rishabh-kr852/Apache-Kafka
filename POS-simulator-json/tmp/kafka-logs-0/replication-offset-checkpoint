@@ -1,21 +1,27 @@
 0
-19
+25
 __consumer_offsets 8 0
-pos 1 2101
-pos 2 2333
-__consumer_offsets 35 0
+valid-pos 2 2479
+invalid-pos 1 26
+pos 1 2274
+pos 2 2516
+__consumer_offsets 35 46
+valid-pos 1 2248
 __consumer_offsets 41 0
 __consumer_offsets 23 0
 __consumer_offsets 47 0
+valid-pos 0 1532
+invalid-pos 2 37
 __consumer_offsets 38 0
 __consumer_offsets 17 0
 __consumer_offsets 11 0
 __consumer_offsets 2 0
 __consumer_offsets 14 0
 __consumer_offsets 20 2
-pos 0 1431
+pos 0 1558
 __consumer_offsets 44 0
 __consumer_offsets 5 0
 __consumer_offsets 26 0
 __consumer_offsets 29 0
+invalid-pos 0 26
 __consumer_offsets 32 0
