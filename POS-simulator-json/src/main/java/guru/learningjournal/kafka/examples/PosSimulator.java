@@ -20,6 +20,7 @@ public class PosSimulator {
 
     public static void main(String[] args){
         if(args.length < 3){
+            System.out.println("Please provide command line arguments: topicName noOfProducers produceSpeed");
             System.exit(-1);
         }
 
