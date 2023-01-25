@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\ka%KAFKA_HOME%\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --from-beginning --whitelist "helloproducer1|helloproducer-2"fka-console-consumer.bat --bootstrap-server localhost:9092 --topic hello-producer --from-beginning
